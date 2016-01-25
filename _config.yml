@@ -1,6 +1,6 @@
 name: thefarmintheforest
 favicon: null
-layout_spectrum: 0.24555
+layout_spectrum: 0.4966
 typography_spectrum: 0.43905
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f3f1f2'
-    - '#040d1e'
-    - '#72b96b'
-    - '#ff6f00'
-    - '#a13600'
+    - '#060e1f'
+    - '#d6c5b1'
+    - '#7a735f'
+    - '#d38f76'
+    - '#e65341'
   brandStrength: 0.16787517303600907
   lightness: 0.49558677175082266
   saturation: 0.6878874583635479
