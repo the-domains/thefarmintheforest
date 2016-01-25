@@ -1,28 +1,40 @@
-name: thefarmintheforest
-favicon: null
 layout_spectrum: 0.99406
-typography_spectrum: 0.43905
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#060e1f'
-    - '#d6c5b1'
-    - '#7a735f'
-    - '#d38f76'
-    - '#e65341'
-  brandStrength: 0.16787517303600907
-  lightness: 0.49558677175082266
-  saturation: 0.6878874583635479
-  rhythmicContrast: 0.7962754666805267
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6878874583635479
+  lightness: 0.4955867717508227
+  brandStrength: 0.5017921
+  brandColors:
+    - '#6F91BD'
+    - '#4A6478'
+    - '#F2E8E0'
+    - '#1F1603'
+    - '#E0E987'
+  rhythmicContrast: 0.7962754666805267
+typography_spectrum: 0.43905
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: thefarmintheforest
