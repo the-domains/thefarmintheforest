@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T21:16:22.460Z'
-dateModified: '2016-01-25T21:16:18.400Z'
+datePublished: '2016-01-25T21:17:20.616Z'
+dateModified: '2016-01-25T21:17:18.351Z'
 title: "The most beautiful locations of Amsterdam [in random\_order]"
 author: []
 sourcePath: _posts/2016-01-25-the-most-beautiful-locations-of-amsterdam-in-random-order.md
