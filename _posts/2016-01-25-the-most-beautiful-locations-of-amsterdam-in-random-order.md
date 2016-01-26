@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T22:46:51.398Z'
-dateModified: '2016-01-25T22:45:05.818Z'
+datePublished: '2016-01-26T15:37:28.561Z'
+dateModified: '2016-01-26T15:37:26.121Z'
 title: "The most beautiful locations of Amsterdam [in random\_order]"
 author: []
 sourcePath: _posts/2016-01-25-the-most-beautiful-locations-of-amsterdam-in-random-order.md
