@@ -1,6 +1,6 @@
 name: thefarmintheforest
 favicon: null
-layout_spectrum: 0.99406
+layout_spectrum: 0
 typography_spectrum: 0.43905
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#07a98f'
     - '#ba172a'
     - '#0b090a'
-  brandStrength: 0.5017921
+  brandStrength: 0.5
   lightness: 0.4955867717508227
   saturation: 0.6878874583635479
   rhythmicContrast: 0.7962754666805267
