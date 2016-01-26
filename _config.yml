@@ -1,8 +1,7 @@
+name: thefarmintheforest
+favicon: null
 layout_spectrum: 0.99406
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.43905
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6878874583635479
-  lightness: 0.4955867717508227
-  brandStrength: 0.5017921
-  brandColors:
-    - '#6F91BD'
-    - '#4A6478'
-    - '#F2E8E0'
-    - '#1F1603'
-    - '#E0E987'
-  rhythmicContrast: 0.7962754666805267
-typography_spectrum: 0.43905
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: thefarmintheforest
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#efd6c2'
+    - '#fc715a'
+    - '#07a98f'
+    - '#ba172a'
+    - '#0b090a'
+  brandStrength: 0.5017921
+  lightness: 0.4955867717508227
+  saturation: 0.6878874583635479
+  rhythmicContrast: 0.7962754666805267
+purpose: []
