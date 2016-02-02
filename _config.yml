@@ -1,5 +1,8 @@
+name: 'The Farm in the Forest '
+favicon: null
+layout_spectrum: 0.5985663
+typography_spectrum: 0.4462366
 title: 'The Farm in the Forest '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6878874583635479
-  brandStrength: 0.5
-  lightness: 0.4955867717508227
-  brandColors:
-    - '#17171D'
-    - '#B4BDBD'
-    - '#FBFCFC'
-    - '#FBBF01'
-    - '#5C6565'
-  rhythmicContrast: 0.7962754666805267
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: thefarmintheforest
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4462366
-layout_spectrum: 0.5985663
+color:
+  brandColors:
+    - '#f8f8fa'
+    - '#899eb3'
+    - '#444341'
+    - '#a94738'
+    - '#a88066'
+  brandStrength: 0.5
+  lightness: 0.4955867717508227
+  saturation: 0.6878874583635479
+  rhythmicContrast: 0.7962754666805267
+purpose: []
