@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.6878874583635479
   brandStrength: 0.5
-  rhythmicContrast: 0.7962754666805267
-  brandColors:
-    - '#efd6c2'
-    - '#fc715a'
-    - '#07a98f'
-    - '#ba172a'
-    - '#0b090a'
   lightness: 0.4955867717508227
+  brandColors:
+    - '#17171D'
+    - '#B4BDBD'
+    - '#FBFCFC'
+    - '#FBBF01'
+    - '#5C6565'
+  rhythmicContrast: 0.7962754666805267
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: thefarmintheforest
 favicon: null
+name: thefarmintheforest
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.43905
-layout_spectrum: 1
+typography_spectrum: 0.4462366
+layout_spectrum: 0.5985663
