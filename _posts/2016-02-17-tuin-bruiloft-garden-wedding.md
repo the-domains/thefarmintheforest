@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T09:03:57.575Z'
-dateModified: '2016-03-04T09:03:43.345Z'
+datePublished: '2016-03-04T09:11:13.741Z'
+dateModified: '2016-03-04T09:10:22.221Z'
 title: "GARDEN WEDDING\_"
 author: []
 sourcePath: _posts/2016-02-17-tuin-bruiloft-garden-wedding.md
@@ -22,6 +22,8 @@ url: tuin-bruiloft-garden-wedding/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79eeecf2-2138-4808-98b1-e233a2b472f0.jpg)
+
 # GARDEN WEDDING 
 
 Een bruiloft in je eigen tuin kan heel aantrekkelijk zijn, maar waar moet je allemaal aan denken?
@@ -54,16 +56,22 @@ _A wedding in your own garden can be quite attractive , but what should you take
 
 _Marrying in your own garden requires more preparation than getting married at a rented location . On the other hand, it offers more freedom. There are some issues that are important to think about when you want toget married at home :_
 
-* _Is there enough parking space ?_
+* _Is there enough parking space? _
 
-* __
 * _Is there enough space in case of poor weather? _
 
 * _If you hire a caterer , is there plenty of space in the kitchen ? Particularly consider things like refrigeration , storage and \[ gas \] burners. _
-* _Will electricity be a problem ? When there's a DJ or a band , you need a lot of power._
-* _Is there any noise for the neighbors? \[If you have nice neighbors , you can simply resolve the problem by inviting them!\]_
-* _What to do about decorations and lights ?___
-* _Are there enough toilets for the guests?_
-* _Should there be a dance floor and is there space for it? __Are there any rules from the municipality?_
 
-_Think it over. If you have enough people to help, and your home is well suited to marry, then it is a great option!_
+* _Will electricity be a problem ? When there's a DJ or a band , you need a lot of power._
+
+* _Is there any noise for the neighbors? \[If you have nice neighbors , you can simply resolve the problem by inviting them!\]_
+
+* _Are there enough toilets for your guests?_
+
+* _What to do about decorations and lights ?_
+
+* _Should there be a dance floor and is there space for it? _
+
+* _Are there any rules from the municipality?_
+
+_____Think it over. If you have enough people to help, and your home is well suited to marry, then it is a great option!_____
