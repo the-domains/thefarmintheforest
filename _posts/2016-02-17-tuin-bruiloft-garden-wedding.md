@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T09:11:13.741Z'
-dateModified: '2016-03-04T09:10:22.221Z'
+datePublished: '2016-03-04T09:38:53.939Z'
+dateModified: '2016-03-04T09:36:57.994Z'
 title: "GARDEN WEDDING\_"
 author: []
 sourcePath: _posts/2016-02-17-tuin-bruiloft-garden-wedding.md
@@ -30,25 +30,7 @@ Een bruiloft in je eigen tuin kan heel aantrekkelijk zijn, maar waar moet je all
 
 Thuis trouwen vergt wat meer voorbereiding dan trouwen op een gehuurde locatie. Aan de andere kant biedt het ook meer vrijheid. Er zijn een aantal zaken die belangrijk zijn om aan te denken, wanneer je thuis trouwt:
 
-* Is er voldoende parkeergelegenheid?
-
-* Is er voldoende overdekte ruimte bij slecht weer?
-
-* Als er een cateraar is, is er dan voldoende ruimte in de keuken? Denk hier met name aan dingen als koeling, opslag en \[gas\]pitten
-
-* Zijn er genoeg groepen in de meterkast? Als er een DJ of een band is moeten de stoppen natuurlijk niet doorslaan.
-
-* Is er geen geluidsoverlast voor de buren? \[Als je leuke buren hebt, kun je ze het beste gewoon uitnodigen, probleem opgelost!\]
-
-* Zijn er voldoende toiletten voor de gasten?
-
-* Moet er een dansvloer komen en is daar plek voor?
-
-* Zijn er regels vanuit de gemeente?
-
-* Zijn er voldoende glazen, borden, stoelen etc.
-
-* Hoe pak je de decoratie en de verlichting aan?
+Is er voldoende parkeergelegenheid? / Is er voldoende overdekte ruimte bij slecht weer? /Als er een cateraar is, is er dan voldoende ruimte in de keuken? Denk hier met name aan dingen als koeling, opslag en \[gas\]pitten. / Zijn er genoeg groepen in de meterkast? Als er een DJ of een band is moeten de stoppen natuurlijk niet doorslaan. / Is er geen geluidsoverlast voor de buren? \[Als je leuke buren hebt, kun je ze het beste gewoon uitnodigen, probleem opgelost!\] / Zijn er voldoende toiletten voor de gasten? / Moet er een dansvloer komen en is daar plek voor? / Zijn er regels vanuit de gemeente? / Zijn er voldoende glazen, borden, stoelen etc. / Hoe pak je de decoratie en de verlichting aan?
 
 Genoeg dingen om over na te denken dus.  Als er voldoende mensen zijn die je kunnen helpen én jullie thuislocatie is geschikt om te trouwen, dan is het een fantastische optie!
 
