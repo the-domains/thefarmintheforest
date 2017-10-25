@@ -55,6 +55,9 @@ navigation:
   - name: Contact
     id: dd19782e-8437-4268-927c-fff9d72849f2
     type: content
+  - name: 'Project Management '
+    id: 8ac03332-ba45-4b12-9c6f-9acc3d9cd69a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/96eece51-c070-4baf-ba45-0643b217b3f8.png
 collections:
