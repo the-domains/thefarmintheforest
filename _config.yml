@@ -40,11 +40,11 @@ navigation:
   - name: Contact
     id: dd19782e-8437-4268-927c-fff9d72849f2
     type: content
-  - name: Portfolio
-    id: 8683ce45-3784-4750-bf2f-3263cc49c11e
-    type: content
   - name: 'Weddings & Events '
     id: 37523d1d-8a4e-4a21-9ff9-597acb3a8c27
+    type: content
+  - name: Portfolio
+    id: 8683ce45-3784-4750-bf2f-3263cc49c11e
     type: content
   - name: 'Setting the table '
     id: c5416ccd-adf4-498e-835c-65a19d152232
