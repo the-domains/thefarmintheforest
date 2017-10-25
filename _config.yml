@@ -73,7 +73,32 @@ collections:
       format: rss
       number: 10
 title: 'De Vos in het Bos '
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e6c774c-2f92-4679-810f-20a161094b7e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e6c774c-2f92-4679-810f-20a161094b7e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Media | Cultuur | Maatschappij
 purpose:
   - type: contact
