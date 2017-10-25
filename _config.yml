@@ -1,5 +1,6 @@
-layout_spectrum: 0.7497783092907307
 typography_spectrum: 0.5884006071948252
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#7D8A2E'
@@ -11,15 +12,23 @@ color:
   lightness: 0.3388428353664862
   saturation: 0.8924602690960585
   rhythmicContrast: 0.23305600269550072
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7497783092907307
 analytics:
   google: null
   facebook: null
   twitter: '1982'
+author:
+  name: Marloes Engelhart
+  email: marloesengelhart@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef7932f-92a5-4c2e-8cc4-8a3e698489f4.png
 name: De Vos in het Bos
+url: 'https://thegrid.ai/devosinhetbos'
 cta:
   domain: null
   bucket: null
@@ -31,7 +40,7 @@ navigation:
   - name: Contact
     id: dd19782e-8437-4268-927c-fff9d72849f2
     type: content
-  - name: 'The Art of Wedding Planning '
+  - name: Portfolio
     id: 8683ce45-3784-4750-bf2f-3263cc49c11e
     type: content
 favicon: null
@@ -57,12 +66,3 @@ purpose:
   - type: contact
     url: 'tel:0031-611725522'
     label: Call us
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef7932f-92a5-4c2e-8cc4-8a3e698489f4.png
-content_rating:
-  adult: false
-url: 'https://thegrid.ai/devosinhetbos'
-author:
-  name: Marloes Engelhart
-  email: marloesengelhart@gmail.com
