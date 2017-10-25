@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: '1982'
-name: 'The Farm in the Forest '
+name: De Vos in het Bos
 cta:
   domain: null
   bucket: null
@@ -47,7 +47,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'The Farm in the Forest '
+title: 'De Vos in het Bos '
 content: []
 description: 'For all things wonderful '
 purpose:
