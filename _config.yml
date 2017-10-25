@@ -1,5 +1,6 @@
-layout_spectrum: 0.02421263354295625
 typography_spectrum: 0.18304711640508162
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#225378'
@@ -11,13 +12,12 @@ color:
   lightness: 0.10176330977626662
   saturation: 0.916924839247719
   rhythmicContrast: 0.45703061304958814
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.02421263354295625
 analytics:
   google: null
   facebook: null
@@ -48,6 +48,9 @@ navigation:
     type: content
   - name: Contact
     id: dd19782e-8437-4268-927c-fff9d72849f2
+    type: content
+  - name: Editorial
+    id: 44bc137d-15df-4544-9a74-51e276d3504f
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/96eece51-c070-4baf-ba45-0643b217b3f8.png
