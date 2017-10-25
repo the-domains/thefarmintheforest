@@ -1,8 +1,40 @@
+layout_spectrum: 0.7497783092907307
+typography_spectrum: 0.5884006071948252
+color:
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.7635722821900197
+  lightness: 0.3388428353664862
+  saturation: 0.8924602690960585
+  rhythmicContrast: 0.23305600269550072
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  google: null
+  facebook: null
+  twitter: '1982'
 name: 'The Farm in the Forest '
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: "About\_"
+    id: 5a1b1df1-9a92-4315-86b8-2f69a351f957
+    type: content
+  - name: Contact
+    id: dd19782e-8437-4268-927c-fff9d72849f2
+    type: content
+  - name: 'The Art of Wedding Planning '
+    id: 8683ce45-3784-4750-bf2f-3263cc49c11e
+    type: content
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4462366
-title: 'The Farm in the Forest '
 collections:
   - index:
       path: /
@@ -15,27 +47,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#00cea6'
-    - '#c0b9ba'
-    - '#79575b'
-  brandStrength: 0.5
-  lightness: 0.4955867717508227
-  saturation: 0.6878874583635479
-  rhythmicContrast: 0.7962754666805267
-purpose: []
+title: 'The Farm in the Forest '
+content: []
+description: 'For all things wonderful '
+purpose:
+  - type: contact
+    url: 'mailto:marloesengelhart@gmail.com'
+    label: Contact us
+  - type: contact
+    url: 'tel:0031-611725522'
+    label: Call us
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef7932f-92a5-4c2e-8cc4-8a3e698489f4.png
+content_rating:
+  adult: false
+url: 'https://thegrid.ai/devosinhetbos'
+author:
+  name: Marloes Engelhart
+  email: marloesengelhart@gmail.com
