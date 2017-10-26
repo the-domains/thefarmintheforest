@@ -37,6 +37,9 @@ navigation:
   - name: "About\_"
     id: 5a1b1df1-9a92-4315-86b8-2f69a351f957
     type: content
+  - name: 'Project Management '
+    id: 8ac03332-ba45-4b12-9c6f-9acc3d9cd69a
+    type: content
   - name: Portfolio
     id: 8683ce45-3784-4750-bf2f-3263cc49c11e
     type: content
@@ -45,9 +48,6 @@ navigation:
     type: content
   - name: Hotspots
     id: 1940daa8-1c9e-4ac8-ae45-0cbb9e7d9ada
-    type: content
-  - name: 'Project Management '
-    id: 8ac03332-ba45-4b12-9c6f-9acc3d9cd69a
     type: content
   - name: Setting the table
     id: c5416ccd-adf4-498e-835c-65a19d152232
