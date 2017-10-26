@@ -46,14 +46,14 @@ navigation:
   - name: Hotspots
     id: 1940daa8-1c9e-4ac8-ae45-0cbb9e7d9ada
     type: content
+  - name: Setting the table
+    id: c5416ccd-adf4-498e-835c-65a19d152232
+    type: content
   - name: 'Project Management '
     id: 8ac03332-ba45-4b12-9c6f-9acc3d9cd69a
     type: content
   - name: 'Weddings & Events '
     id: 37523d1d-8a4e-4a21-9ff9-597acb3a8c27
-    type: content
-  - name: Setting the table
-    id: c5416ccd-adf4-498e-835c-65a19d152232
     type: content
   - name: Contact
     id: dd19782e-8437-4268-927c-fff9d72849f2
