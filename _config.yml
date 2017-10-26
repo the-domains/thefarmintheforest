@@ -34,11 +34,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: "About\_"
-    id: 5a1b1df1-9a92-4315-86b8-2f69a351f957
-    type: content
   - name: 'Project Management '
     id: 8ac03332-ba45-4b12-9c6f-9acc3d9cd69a
+    type: content
+  - name: "About\_"
+    id: 5a1b1df1-9a92-4315-86b8-2f69a351f957
     type: content
   - name: Editorial
     id: 44bc137d-15df-4544-9a74-51e276d3504f
