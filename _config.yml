@@ -40,11 +40,11 @@ navigation:
   - name: 'Project Management '
     id: 8ac03332-ba45-4b12-9c6f-9acc3d9cd69a
     type: content
-  - name: Portfolio
-    id: 8683ce45-3784-4750-bf2f-3263cc49c11e
-    type: content
   - name: Editorial
     id: 44bc137d-15df-4544-9a74-51e276d3504f
+    type: content
+  - name: Portfolio
+    id: 8683ce45-3784-4750-bf2f-3263cc49c11e
     type: content
   - name: Hotspots
     id: 1940daa8-1c9e-4ac8-ae45-0cbb9e7d9ada
