@@ -1,5 +1,6 @@
-layout_spectrum: 0.6670320708160796
 typography_spectrum: 0.6523833646365248
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#7D8A2E'
@@ -11,13 +12,12 @@ color:
   lightness: 0.7160954815200945
   saturation: 0.011601243089644773
   rhythmicContrast: 0.6591688546587224
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6670320708160796
 analytics:
   google: null
   facebook: null
@@ -43,7 +43,7 @@ navigation:
   - name: Editorial
     id: 44bc137d-15df-4544-9a74-51e276d3504f
     type: content
-  - name: 'Images '
+  - name: Hotspots
     id: 1940daa8-1c9e-4ac8-ae45-0cbb9e7d9ada
     type: content
   - name: 'Project Management '
@@ -82,19 +82,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e6c774c-2f92-4679-810f-20a161094b7e.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -106,19 +106,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d38f0a-33e5-4f72-8832-d669a51cdc21.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
