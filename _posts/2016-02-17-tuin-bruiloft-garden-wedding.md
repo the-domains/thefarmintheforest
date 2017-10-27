@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-10-25T17:16:15.628Z'
+datePublished: '2017-10-27T07:22:30.172Z'
 sourcePath: _posts/2016-02-17-tuin-bruiloft-garden-wedding.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2017-10-25T17:16:14.772Z'
+dateModified: '2017-10-27T07:22:29.385Z'
 title: GARDEN WEDDING
 publisher: {}
 description: >-
