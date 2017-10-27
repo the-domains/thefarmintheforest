@@ -43,11 +43,11 @@ navigation:
   - name: 'Home Deco '
     id: 8683ce45-3784-4750-bf2f-3263cc49c11e
     type: content
-  - name: Work with us
-    id: c5416ccd-adf4-498e-835c-65a19d152232
-    type: content
   - name: Hotspots
     id: 1940daa8-1c9e-4ac8-ae45-0cbb9e7d9ada
+    type: content
+  - name: Work with us
+    id: c5416ccd-adf4-498e-835c-65a19d152232
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/96eece51-c070-4baf-ba45-0643b217b3f8.png
