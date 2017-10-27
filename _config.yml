@@ -49,9 +49,6 @@ navigation:
   - name: Favorites
     id: 37523d1d-8a4e-4a21-9ff9-597acb3a8c27
     type: content
-  - name: Contact
-    id: dd19782e-8437-4268-927c-fff9d72849f2
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/96eece51-c070-4baf-ba45-0643b217b3f8.png
 collections:
